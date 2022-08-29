@@ -1,0 +1,53 @@
+body{
+  font-size: 14px;
+  color:#F8F6F6;
+  background-color: #6DA0AB;
+  font-family: sans-serif;}
+  .navbar-brand h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: #26260C;
+
+
+  }
+
+
+
+
+.nav a:hover .nav a:focus{
+  text-decoration: none;
+}
+.navbar-toggler{
+  border:1px solid black;
+}
+.menu {
+  text-transform: capitalize;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  font-size:50px;
+
+}
+.content {
+  background-color: #4D593A;
+  border:5px solid black;
+  height:1000px;
+  width:100%;
+  margin:25px auto 0;
+  overflow: hidden;
+}
+.menu-heading{
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 25px;
+  text-align: center;
+
+}
+.lor{
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 20px;
+}
